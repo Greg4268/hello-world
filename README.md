@@ -1,2 +1,2 @@
 # hello-world
-test_rep_1
+this is a test repository 
